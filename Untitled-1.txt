@@ -1,0 +1,11 @@
+POST /create 
+Content-Type: application/json
+{
+  apiKey: "valid api key",
+  type: "one of the bots from lib/bots/*.js",
+  port: 43377,
+  host: ""worldland2.aternos.me
+  username: "mybotfranxo",
+  password: "name",
+  owner: "username who started the bot"
+}
